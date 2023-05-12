@@ -12,9 +12,9 @@
 <a href="https://www.codechef.com/users/horcrux_63">
     <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/horcrux_63"/>
 </a>
-<a href="https://atcoder.jp/users/horcrux_63">
+<!-- <a href="https://atcoder.jp/users/horcrux_63">
     <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/horcrux_63"/>
-</a>
+</a> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horcrux-63&label=Profile%20views&color=0e75b6&style=flat" alt="horcrux-63" /> </p>
 
 - 🌱 I’m currently learning **NodeJS**
