@@ -17,7 +17,7 @@
 </a> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horcrux-63&label=Profile%20views&color=0e75b6&style=flat" alt="horcrux-63" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **ichkabir@gmail.com**
 
